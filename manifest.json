@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images/theme_frame.png",
+            "theme_tab_background": "images/theme_tab_background.png"
+        },
+        "colors": {
+            "frame": [34,34,34],
+            "toolbar": [80,80,80],
+            "tab_text": [204,204,204],
+            "tab_background_text": [204,204,204],
+            "bookmark_text": [204,204,204],
+            "ntp_background": [255,255,255],
+            "ntp_text": [51,51,51],
+            "button_background": [51,51,51,1]
+        },
+        "tints": {
+            "buttons": [0,0,0.8],
+            "frame_inactive": [0, 0, 0.5],
+            "background_tab": [0,0,0.65]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    },
+    "name": "Flat & Dark",
+    "version": "1",
+    "description": ""
+}
